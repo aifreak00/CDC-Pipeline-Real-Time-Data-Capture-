@@ -24,7 +24,7 @@ Welcome to the Real-Time Data Streaming Project! This project leverages CDC to c
 - **💬 Slack (Optional)**: Provides real-time notifications for data changes (e.g., new transactions).
 
 ##  Architecture/Workflow
-
+![s1](https://github.com/aifreak00/CDC-Pipeline-Real-Time-Data-Capture-/assets/113664560/02a2fa37-b100-4506-95a0-8547e3320da6)
 
 
 ## 📑 Project Breakdown
@@ -33,8 +33,8 @@ Welcome to the Real-Time Data Streaming Project! This project leverages CDC to c
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/cdc-streaming-project.git
-   cd cdc-streaming-project
+   git clone https://github.com/yourusername/CDC-Pipeline-Real-Time-Data-Capture-.git
+   cd CDC-Pipeline-Real-Time-Data-Capture
    ```
 
 2. **Docker Setup**:
