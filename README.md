@@ -50,7 +50,7 @@ A Python script is employed to generate realistic financial transactions using t
 
 - **Run the Data Generation Script**:
   ```sh
-  python generate_data.py
+  python main.py
   ```
 
 ### 🌀 Data Streaming Workflow
@@ -76,6 +76,4 @@ Enhance this project by:
 - **Apache Spark Documentation**: [https://spark.apache.org/docs/latest/](https://spark.apache.org/docs/latest/)
 - **Faker Library Documentation**: [https://faker.readthedocs.io/en/master/](https://faker.readthedocs.io/en/master/)
 
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
